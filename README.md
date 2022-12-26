@@ -31,8 +31,8 @@ A massive part of solving a bug is just about reproducing it, which just means b
 
 ## Why do I need to sign up for an account here?
 
-GitHub's an awesome site that's really well-suited for tracking stuff about a project, be it bug tracking, feature request tracking, etc. It'll help me keep things more organized since it is all centered in one place. Having to sign up for an account is super quick though and helps cut down on spam, so it's worth it. [Sign Up](https://github.com/)
+GitHub's an awesome site that's well equiped for tracking stuff about a project, be it bug tracking, feature request tracking, etc. It'll help me keep things more organized since it is all centered in one place. Having to sign up for an account is super quick though and helps cut down on spam, so it's worth it. [Sign Up](https://github.com/)
 
 ## Can I participate in discussions here?
 
-Of course! But try to stay on topic about the specific bug report, feature request, etc, so contribute if you feel you can add extra information. If you just want to say "I also have the bug" or "I also want this feature", use the + button with the smiley on a comment to indicate your reaction rather than creating another comment, this will signal me that there are more people that are interested or have the bug, think of it like a reddit upvote. This is unfortunately also not the place for off-topic conversation or memes. Also please try to be nice here within the discussions. :)
+Of course! But try to stay on topic about the specific bug report, feature request, etc, so contribute if you feel you can add extra information. If you just want to say "I also have the bug" or "I also want this feature", use the + button with the smiley on a comment to indicate your reaction rather than creating another comment, this will signal me that there are more people that are interested or have the bug, think of it like a reddit upvote. This is unfortunately also not the place for off-topic conversation or memes, also please try to keep it clean here within the discussions!
