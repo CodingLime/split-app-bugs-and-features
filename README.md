@@ -15,11 +15,11 @@ Hey there, welcome! Here's the bug and features request tracker for known issues
 
 To create a report, you'll need a [GitHub account](https://github.com/), which is fast and free to get.
 
-Then, go to the “Issues” tab at the top, select “New Issue” and simply fill in the form. *Please* make sure you include as much of the requested information as possible, even if you think it might not help, all the small details help, also please be polite in the discussions as well.
+Then, go to the “Issues” tab at the top, select “New Issue” and simply fill in the form. *Please* make sure you include as much of the requested information as possible, even if you think it might not help, all the small details help, also please be polite in the discussions as well. Things to include in your report: your smartphone (maker and model), your OS version (i.e., iOS 16.1, Android 13, etc), steps to reproduce the bug, etc.
 
 ## How do I request a feature?
 
-Same as above!
+Kinda same as the above, go to the “Issues” tab at the top, select “New Issue” and simply fill in the form and add the correct tag.
 
 ## How do I find out if my bug has already been reported?
 
